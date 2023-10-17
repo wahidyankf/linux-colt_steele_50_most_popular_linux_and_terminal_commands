@@ -1,6 +1,6 @@
 # Introduction
 
-This is a follow-along repo for colt-steele's course: [The 50 Most Popular Linux & Terminal Commands - Full Course for Beginners](https://www.youtube.com/watch?v=ZtqBQ68cfJc) in YouTube.
+This is a follow-along repo for colt-steele's course: [The 50 Most Popular Linux & Terminal Commands - Full Course for Beginners](https://www.youtube.com/watch?v=ZtqBQ68cfJc) in YouTube. You can find the book from the video [here](https://www.freecodecamp.org/news/the-linux-commands-handbook/).
 
 ## List of commands
 
